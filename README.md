@@ -96,6 +96,11 @@ uvicorn app.main:app --port 8000
 - Tests (no network needed): `pytest`
 - Regenerate the spec after changing the API: `python scripts/export_openapi.py`
 
+**Deploying:** [render.yaml](render.yaml) deploys the service to Render's free tier as a
+Blueprint. Set `URJA_EMAIL` and `URJA_PASSWORD` in the Render dashboard when prompted; they
+are never committed. Free instances sleep when idle, so the first request after a pause
+takes about a minute.
+
 Configuration is via environment variables (or `.env`):
 
 | Variable | Default | |

@@ -1,0 +1,17 @@
+# Render Blueprint: one free web service running the API.
+# Portal credentials are entered in the Render dashboard (sync: false), never committed.
+services:
+  - type: web
+    name: flock-energy-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: URJA_EMAIL
+        sync: false
+      - key: URJA_PASSWORD
+        sync: false
