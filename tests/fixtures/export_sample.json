@@ -1,0 +1,1897 @@
+{
+ "data": [
+  {
+   "meterId": "J100000",
+   "serialNo": "SE33962",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.938961002479868,
+    "lng": 75.83095696146852
+   }
+  },
+  {
+   "meterId": "J100006",
+   "serialNo": "SE35634",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.812653854983022,
+    "lng": 75.80722787903873
+   }
+  },
+  {
+   "meterId": "J100010",
+   "serialNo": "GE98722",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.93762868628148,
+    "lng": 75.71533679098142
+   }
+  },
+  {
+   "meterId": "J100028",
+   "serialNo": "AL32322",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 27.031596323852522,
+    "lng": 75.7191354043644
+   }
+  },
+  {
+   "meterId": "J100040",
+   "serialNo": "AL53485",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.84893778260341,
+    "lng": 75.71342736840965
+   }
+  },
+  {
+   "meterId": "J100046",
+   "serialNo": "AL11788",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.973315567097256,
+    "lng": 75.87694795933571
+   }
+  },
+  {
+   "meterId": "J100050",
+   "serialNo": "HP51466",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.91184227060769,
+    "lng": 75.76559774679849
+   }
+  },
+  {
+   "meterId": "J100068",
+   "serialNo": "GE23103",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.85775886211088,
+    "lng": 75.75026766173328
+   }
+  },
+  {
+   "meterId": "J100080",
+   "serialNo": "HP78319",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.993871215118656,
+    "lng": 75.79331641065441
+   }
+  },
+  {
+   "meterId": "J100086",
+   "serialNo": "SE82374",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.88090062214071,
+    "lng": 75.85356948009944
+   }
+  },
+  {
+   "meterId": "J100090",
+   "serialNo": "GE84127",
+   "make": "L&T",
+   "phaseType": "three",
+   "installStatus": "Decommissioned",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.964433913554625,
+    "lng": 75.8017710977329
+   }
+  },
+  {
+   "meterId": "J100108",
+   "serialNo": "AL42293",
+   "make": "Genus",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.90206764821671,
+    "lng": 75.87713745943988
+   }
+  },
+  {
+   "meterId": "J100120",
+   "serialNo": "SE23266",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.825493643961476,
+    "lng": 75.76452416336183
+   }
+  },
+  {
+   "meterId": "J100126",
+   "serialNo": "L&14240",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Faulty",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.994564630410263,
+    "lng": 75.7897835698423
+   }
+  },
+  {
+   "meterId": "J100130",
+   "serialNo": "AL64775",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.809264777198063,
+    "lng": 75.76518889042568
+   }
+  },
+  {
+   "meterId": "J100148",
+   "serialNo": "SE33726",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.954595117392113,
+    "lng": 75.8795456162516
+   }
+  },
+  {
+   "meterId": "J100160",
+   "serialNo": "AL15252",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.986727599257232,
+    "lng": 75.69093287786022
+   }
+  },
+  {
+   "meterId": "J100166",
+   "serialNo": "HP27187",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.85646679098029,
+    "lng": 75.89545398482373
+   }
+  },
+  {
+   "meterId": "J100170",
+   "serialNo": "L&26991",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": ""
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.941281921956783,
+    "lng": 75.71731542362618
+   }
+  },
+  {
+   "meterId": "J100188",
+   "serialNo": "L&47410",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.87739185037101,
+    "lng": 75.88106774582779
+   }
+  },
+  {
+   "meterId": "J100200",
+   "serialNo": "GE97492",
+   "make": "Genus",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.85241167622628,
+    "lng": 75.716893184439
+   }
+  },
+  {
+   "meterId": "J100206",
+   "serialNo": "HP91766",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.983626741245484,
+    "lng": 75.8533569400643
+   }
+  },
+  {
+   "meterId": "J100210",
+   "serialNo": "HP96098",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": ""
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.82345170652736,
+    "lng": 75.88492325481279
+   }
+  },
+  {
+   "meterId": "J100228",
+   "serialNo": "GE77042",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": ""
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.825873101099955,
+    "lng": 75.81887679655124
+   }
+  },
+  {
+   "meterId": "J100240",
+   "serialNo": "L&70110",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.840757689001133,
+    "lng": 75.87184723568866
+   }
+  },
+  {
+   "meterId": "J100246",
+   "serialNo": "GE77739",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.877514870050458,
+    "lng": 75.74135065338128
+   }
+  },
+  {
+   "meterId": "J100250",
+   "serialNo": "L&52514",
+   "make": "HPL",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.978987362904103,
+    "lng": 75.85359683822394
+   }
+  },
+  {
+   "meterId": "J100268",
+   "serialNo": "GE28179",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": ""
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 27.012175545531885,
+    "lng": 75.8299098095486
+   }
+  },
+  {
+   "meterId": "J100280",
+   "serialNo": "SE15788",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.923869542572742,
+    "lng": 75.75961272800127
+   }
+  },
+  {
+   "meterId": "J100286",
+   "serialNo": "GE73840",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.802719326717874,
+    "lng": 75.69445763979824
+   }
+  },
+  {
+   "meterId": "J100290",
+   "serialNo": "GE59404",
+   "make": "Secure",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 27.004609568421824,
+    "lng": 75.76351047135908
+   }
+  },
+  {
+   "meterId": "J100308",
+   "serialNo": "HP52752",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.99879171376126,
+    "lng": 75.8288704123443
+   }
+  },
+  {
+   "meterId": "J100320",
+   "serialNo": "AL75243",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "v2",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.92331972680297,
+    "lng": 75.67809663908342
+   }
+  },
+  {
+   "meterId": "J100326",
+   "serialNo": "L&73462",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Faulty",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 27.025651883827617,
+    "lng": 75.8080663543406
+   }
+  },
+  {
+   "meterId": "J100330",
+   "serialNo": "L&30452",
+   "make": "Secure",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.88203619469898,
+    "lng": 75.82325250670333
+   }
+  },
+  {
+   "meterId": "J100348",
+   "serialNo": "HP36122",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.834081815816557,
+    "lng": 75.7119244088863
+   }
+  },
+  {
+   "meterId": "J100360",
+   "serialNo": "L&88419",
+   "make": "HPL",
+   "phaseType": "single",
+   "installStatus": "Decommissioned",
+   "installType": "Whole Current",
+   "build": "legacy",
+   "dtCode": "DT-001",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 1",
+     "code": "SS-01"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 1",
+     "code": "DT-001"
+    }
+   },
+   "geo": {
+    "lat": 26.797639049501253,
+    "lng": 75.71626917340113
+   }
+  },
+  {
+   "meterId": "J100366",
+   "serialNo": "L&58066",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Sanganer DT 7",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.917967179992797,
+    "lng": 75.88022666299734
+   }
+  },
+  {
+   "meterId": "J100370",
+   "serialNo": "AL33726",
+   "make": "Allied",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-011",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 1",
+     "code": "D-01"
+    },
+    "subdivision": {
+     "name": "Subdivision 11",
+     "code": "SD-11"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 11",
+     "code": "F-011"
+    },
+    "dt": {
+     "name": "Malviya Nagar DT 11",
+     "code": "DT-011"
+    }
+   },
+   "geo": {
+    "lat": 26.9666898743297,
+    "lng": 75.66600476028184
+   }
+  },
+  {
+   "meterId": "J100388",
+   "serialNo": "SE54991",
+   "make": "L&T",
+   "phaseType": "single",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "v2",
+   "dtCode": "DT-029",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 2",
+     "code": "Z-02"
+    },
+    "circle": {
+     "name": "Circle 5",
+     "code": "C-05"
+    },
+    "division": {
+     "name": "Division 9",
+     "code": "D-09"
+    },
+    "subdivision": {
+     "name": "Subdivision 1",
+     "code": "SD-01"
+    },
+    "substation": {
+     "name": "Substation 11",
+     "code": "SS-11"
+    },
+    "feeder": {
+     "name": "Feeder 1",
+     "code": "F-001"
+    },
+    "dt": {
+     "name": "Sikar Road DT 29",
+     "code": "DT-029"
+    }
+   },
+   "geo": {
+    "lat": 26.976191372289417,
+    "lng": 75.76812537518349
+   }
+  },
+  {
+   "meterId": "J100400",
+   "serialNo": "GN31592",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Old Malviya Nagar Xfmr",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.882703003792653,
+    "lng": 75.74015781362327
+   }
+  },
+  {
+   "meterId": "J100401",
+   "serialNo": "GN61501",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Old Malviya Nagar Xfmr",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.99114306413578,
+    "lng": 75.8089874643811
+   }
+  },
+  {
+   "meterId": "J100402",
+   "serialNo": "GN11062",
+   "make": "Genus",
+   "phaseType": "three",
+   "installStatus": "Installed",
+   "installType": "CT Operated",
+   "build": "legacy",
+   "dtCode": "DT-007",
+   "hierarchy": {
+    "zone": {
+     "name": "Jaipur Zone 1",
+     "code": "Z-01"
+    },
+    "circle": {
+     "name": "Circle 1",
+     "code": "C-01"
+    },
+    "division": {
+     "name": "Division 7",
+     "code": "D-07"
+    },
+    "subdivision": {
+     "name": "Subdivision 7",
+     "code": "SD-07"
+    },
+    "substation": {
+     "name": "Substation 7",
+     "code": "SS-07"
+    },
+    "feeder": {
+     "name": "Feeder 7",
+     "code": "F-007"
+    },
+    "dt": {
+     "name": "Old Malviya Nagar Xfmr",
+     "code": "DT-007"
+    }
+   },
+   "geo": {
+    "lat": 26.97874373345878,
+    "lng": 75.73645286911419
+   }
+  }
+ ],
+ "total": 43
+}
