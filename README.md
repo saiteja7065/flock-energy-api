@@ -96,10 +96,14 @@ uvicorn app.main:app --port 8000
 - Tests (no network needed): `pytest`
 - Regenerate the spec after changing the API: `python scripts/export_openapi.py`
 
-**Deploying:** [render.yaml](render.yaml) deploys the service to Render's free tier as a
-Blueprint. Set `URJA_EMAIL` and `URJA_PASSWORD` in the Render dashboard when prompted; they
-are never committed. Free instances sleep when idle, so the first request after a pause
-takes about a minute.
+**Deploying:** the [Dockerfile](Dockerfile) runs the service anywhere containers run. The live
+demo uses it on a Hugging Face Space (Docker SDK, port 7860). [render.yaml](render.yaml) is an
+alternative Render Blueprint. Either way, set `URJA_EMAIL` and `URJA_PASSWORD` as secrets in the
+host's dashboard; they are never committed.
+
+```bash
+docker build -t urja-api . && docker run -p 7860:7860 --env-file .env urja-api
+```
 
 Configuration is via environment variables (or `.env`):
 
