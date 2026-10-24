@@ -4,6 +4,11 @@ A clean, documented, read-only JSON API in front of **Urja Meter Ops**, a utilit
 web portal for smart-meter data (meter details, network position, consumption) that has no
 API of its own. Consumers of this service never need to touch the portal.
 
+**Live demo:** https://flock-energy-api-qxfo.onrender.com (opens the interactive API docs).
+Try [`/api/v1/meters/J100000`](https://flock-energy-api-qxfo.onrender.com/api/v1/meters/J100000)
+or [`/api/v1/hierarchy?depth=2`](https://flock-energy-api-qxfo.onrender.com/api/v1/hierarchy?depth=2).
+It runs on Render's free tier, which sleeps when idle, so the first request may take up to a minute.
+
 | Document | What's in it |
 |---|---|
 | [PROTOCOL.md](PROTOCOL.md) | How the portal actually works: auth, hidden endpoints, the signed bulk export, rate limits, data-quality issues |
